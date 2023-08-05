@@ -18,5 +18,5 @@ int main()
 		}
 	 
 	}
-	printf("The number of spaces in the text is:%d",n);
+	printf("The number of spaces in the text is:%d",n)
 }
